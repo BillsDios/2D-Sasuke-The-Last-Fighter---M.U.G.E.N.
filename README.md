@@ -6,7 +6,7 @@ A 2D fighter based on "Sasuke The Last" character from Naruto anime. Functional 
 
     -[LinkedIn](https://www.linkedin.com/in/sanchezluismachinelearning/)
     
-    -[YouTube](https://www.youtube.com/channel/UC8X14gUHqfZUegbtFXrhivw)
+    -[YouTube](https://www.youtube.com/@billsdios)
   
 * **RCT29** -> Perfect Sussano sprites
 
